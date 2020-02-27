@@ -16,13 +16,7 @@ To add the Hash Table to your project
 
 Then, to add the Hash table to your file
 
-ES6+
-
 `import HashTable from 'iterable-hash-table';`
-
-ES5
-
-`const HashTable = require('iterable-hash-table');`
 
 ### Information
 

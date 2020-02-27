@@ -8,11 +8,10 @@
  * Very slow. Hash Tables = very fast
 */
 class HashTable {
-   private _buckets: Array<Map<any, any>>
-   private _numOfBuckets: number
-   private _originalSize: number
-   private _size: number
-
+   public _buckets: Array<Map<any, any>>
+   public _numOfBuckets: number
+   public _originalSize: number
+   public _size: number
    public length: number
 
    constructor(s: number = 11) {
