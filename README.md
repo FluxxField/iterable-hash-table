@@ -1,6 +1,7 @@
 # Iterable Hash Table
 
 Github Repo - https://github.com/FluxxField/iterable-hash-table
+NPM Page - https://www.npmjs.com/package/iterable-hash-table
 
 ### Disclaimer
 
