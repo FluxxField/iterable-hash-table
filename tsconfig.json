@@ -1,0 +1,20 @@
+{
+   "compilerOptions": {
+      "rootDir": "./src",
+      "outDir": "./public/",
+      "target": "es5",
+      "module": "es6",
+      "downlevelIteration": true,
+      "moduleResolution": "node",
+      "pretty": true,
+      "lib": [
+         "ESNext"
+      ]
+   },
+   "include": [
+      "src/**/*"
+   ],
+   "exclude": [
+      "node_modules"
+   ]
+}

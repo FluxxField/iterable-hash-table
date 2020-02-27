@@ -1,0 +1,32 @@
+{
+  "name": "iterable-hash-table",
+  "version": "3.1.1",
+  "description": "A simple Iterable Hash Table written in TypeScript",
+  "main": "public/HashTable.js",
+  "scripts": {
+    "postinstall": "tsc",
+    "compile": "tsc",
+    "test": "jest"
+  },
+  "author": "fluxxfield",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.2"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "keywords": [
+    "hash-table",
+    "hash",
+    "table",
+    "iterable",
+    "iterable-hash-table",
+    "iterable-hashtable",
+    "hashtable",
+    "hash table",
+    "iterable hash table",
+    "hash table loop",
+    "loop"
+  ]
+}
