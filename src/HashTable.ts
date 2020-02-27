@@ -290,7 +290,7 @@ class HashTable {
     * @param {string} sizeType A string indicating wether to increase or decrease the size of
     * the Hash Table
    */
-   _resize(sizeType: string) {
+   _resize(sizeType: string): void {
       // Helper function used to check if a number is Prime
       const isPrime = (num: number): boolean => {
          for (let i = 2, s = Math.sqrt(num); i <= s; i++)
@@ -361,7 +361,7 @@ class HashTable {
    /**
     * Clear is a method that resets the Hash Table back to its initial state
    */
-   clear() {
+   clear(): void {
       this._buckets = Array(this._originalSize);
       this._size = this._originalSize;
       this._numOfBuckets = 0;
@@ -369,4 +369,4 @@ class HashTable {
    };
 };
 
-module.exports = HashTable;
+export default HashTable;

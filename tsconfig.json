@@ -4,6 +4,8 @@
       "outDir": "./public/",
       "target": "es5",
       "module": "es6",
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
       "downlevelIteration": true,
       "moduleResolution": "node",
       "pretty": true,

@@ -460,4 +460,4 @@ var HashTable = /** @class */ (function () {
     return HashTable;
 }());
 ;
-module.exports = HashTable;
+export default HashTable;
