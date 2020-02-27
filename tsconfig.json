@@ -14,7 +14,8 @@
       ]
    },
    "include": [
-      "src/**/*"
+      "src/**/*",
+      "public/HashTable.d.ts"
    ],
    "exclude": [
       "node_modules"
