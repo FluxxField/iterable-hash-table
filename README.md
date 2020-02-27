@@ -6,7 +6,14 @@ I wrote this for fun to learn more about Hash Tables, Iterables, Generator Funct
 
 ### How to install
 
+To add the Hash Table to your project
 `npm i -s iterable-hash-table`
+
+Then, to add the Hash table to your file
+ES6+
+`import HashTable from 'iterable-hash-table';`
+ES5
+`const HashTable = require('iterable-hash-table');`
 
 ### Information
 
