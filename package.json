@@ -1,6 +1,6 @@
 {
   "name": "iterable-hash-table",
-  "version": "3.2.7",
+  "version": "3.2.8",
   "description": "A simple Iterable Hash Table written in TypeScript",
   "main": "public/HashTable.js",
   "scripts": {
