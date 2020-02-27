@@ -1,5 +1,7 @@
 # Iterable Hash Table
 
+Github Repo - https://github.com/FluxxField/iterable-hash-table
+
 ### Disclaimer
 
 I wrote this for fun to learn more about Hash Tables, Iterables, Generator Functions and to learn how to upload packages to NPM. Please feel free to message me if you notice anything wrong with the code or wish to give me some tips and tricks. Thank you - Keenan Johns
@@ -60,4 +62,3 @@ However, the Hash Table does not remember insertion order.
 #### Author
 
 Keenan Johns aka fluxxfield
-Github - 
