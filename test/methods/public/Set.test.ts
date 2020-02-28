@@ -1,5 +1,5 @@
-import HashTable from '../../src/HashTable';
-import randomString from '../helperFunctions';
+import HashTable from '../../../src/HashTable';
+import randomString from '../../helperFunctions';
 
 const hashTable = new HashTable();
 
